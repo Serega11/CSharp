@@ -1,0 +1,19 @@
+# Compiled Object files
+*.sln
+*.suo
+*.pdb
+#*.cache
+
+# Executables
+*.exe
+
+# ---- ДИРЕКТОРИИ ----
+# Игнорирование всех файлов и папок ТОЛЬКО в конкретной директории(включая поддиректории и файлы в них)
+# Например /images/user.jpg, /images/company/logo.png
+# НЕ БУДУТ проигнорированы файлы и папки /prod/images/user.jpg
+#/images/*
+
+# Игнорирование всех файлов и папок в ЛЮБЫХ директориях с указанным именем
+# Например /images/user.jpg, /core/images/user.jpg
+LessonDelegate/bin/*
+LessonDelegate/obj/*

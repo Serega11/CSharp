@@ -1,0 +1,4 @@
+c:\users\serega\documents\visual studio 2010\Projects\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.exe
+c:\users\serega\documents\visual studio 2010\Projects\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.pdb
+c:\users\serega\documents\visual studio 2010\Projects\LessonDelegate\LessonDelegate\obj\x86\Debug\LessonDelegate.exe
+c:\users\serega\documents\visual studio 2010\Projects\LessonDelegate\LessonDelegate\obj\x86\Debug\LessonDelegate.pdb
